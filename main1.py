@@ -12,9 +12,7 @@ print("Type 'tan' for Tangent Function")
 print("Type 'rad' to Change from Radian to Degree")
 print("Type 'deg' to Change from Degree to Radian")
 print("Type 'exit' to take Exit From Program")
-
 while True:
-
     choice = str(input("\nYour Choice: "))
     if choice=='a':
         n=int(input("How many Numbers you want to add: "))
